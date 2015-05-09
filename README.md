@@ -5,9 +5,9 @@
 
 ## Components
 
-- student registration
-- teacher registration
 - curriculum index
+- teacher registration
+- student registration
 - student enrollment management
 - student assignment submission management
 - teacher assignment review advertisement
