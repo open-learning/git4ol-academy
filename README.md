@@ -1,6 +1,6 @@
 # `git4ol` University
 
-`git4ol-university`privides the base components to operate a university for managing teachers, students, enrollment, assignments and certification for [`git4ol`](https://github.com/open-learning/git4ol/) content.
+`git4ol-university`privides base services needed to operate a university in the [`git4ol`](https://github.com/open-learning/git4ol/) ecosystem.
 
 
 ## Components
