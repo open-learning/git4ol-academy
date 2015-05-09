@@ -11,4 +11,4 @@
 - student enrollment management
 - student assignment submission management
 - teacher assignment review advertisement
-- certification management
+- credit and certification management
