@@ -1,1 +1,1 @@
-# `git4ol` Academy
+# `git4ol` School
