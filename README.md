@@ -1,9 +1,9 @@
 # `git4ol` University
 
-`git4ol-university`privides base services needed to operate a university in the [`git4ol`](https://github.com/open-learning/git4ol/) ecosystem.
+`git4ol-university`privides operational services in a [`git4ol-universe`](https://github.com/open-learning/git4ol-universe/).
 
 
-## Components
+## Services
 
 - curriculum index
 - teacher registration
