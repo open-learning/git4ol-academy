@@ -1,1 +1,1 @@
-# `git4ol` School
+# `git4ol` University
