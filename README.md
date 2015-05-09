@@ -5,7 +5,7 @@
 
 ## Components
 
-- student registrationt
+- student registration
 - teacher registration
 - curriculum index
 - student enrollment management
