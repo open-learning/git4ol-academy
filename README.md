@@ -1,6 +1,6 @@
 # `git4ol` University
 
-`git4ol-university`privides learning services as part of [`git4ol-infrastructure`](https://github.com/open-learning/git4ol-infrastructure/).
+`git4ol-university` provides learning services as part of the [`git4ol-infrastructure`](//github.com/open-learning/git4ol-infrastructure).
 
 
 ## Services
