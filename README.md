@@ -8,6 +8,7 @@
 - curriculum index
 - teacher registration
 - student registration
+- teacher student matching
 - student assignment submission management
 - teacher assignment review advertisement
 - credit and certification management
